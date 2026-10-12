@@ -64,4 +64,4 @@ curl -X POST http://127.0.0.1:5000/predict \
 ## Author
 
 **Manicharan Ravi** · IT Specialist & Cloud Engineer · M.Sc. Computer Science · Mainz, Germany
-[LinkedIn](https://linkedin.com/in/manicharan-ravi) · [GitHub](https://github.com/manicharan0485)
+[Portfolio](https://manicharan0485.github.io) · [LinkedIn](https://linkedin.com/in/manicharan-ravi) · [GitHub](https://github.com/manicharan0485)
